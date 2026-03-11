@@ -29,11 +29,6 @@ It is a client-side web application delivering a modern "stories" experience, al
     *   Vite
 *   **Client-Side Storage:**
     *   Browser LocalStorage API
-*   **Gestures:**
-    *   `react-swipeable`
-*   **Deployment:**
-    *   Vercel
-
 ---
 
 ## Getting Started / Run Locally 🚀
